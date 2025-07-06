@@ -154,4 +154,4 @@ try {
 
 ## License
 
-Part of the RouteMatrix project. 
+Copyright of the Superbuilders School organization.
