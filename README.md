@@ -1,6 +1,6 @@
-# RouteMatrix Backend
+# RouteMatrix
 
-Backend service for the RouteMatrix project with FlightLabs API integration for real-time flight data.
+Comprehensive FlightLabs API implementation.
 
 ## Quick Start
 
